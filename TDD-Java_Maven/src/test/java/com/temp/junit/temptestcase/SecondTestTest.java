@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 public class SecondTestTest {
 
 	
-	@BeforeAll
+	/*@BeforeAll
     static void beforeAll() {
         System.out.println("Before all Second test methods");
     }
@@ -40,6 +40,6 @@ public class SecondTestTest {
     @DisplayName("Second test")
     void secondTest() {
         System.out.println("Second test Second method");
-    }
+    }*/
 
 }
